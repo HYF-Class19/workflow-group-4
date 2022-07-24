@@ -26,8 +26,11 @@
     "Ababa",
     "Lngs",
     "kiki",
-    "Annass",
-    "fourthomas"
+    "fourthomas",
+    "Annass"
   ],
-  "ignorePaths": []
+  "ignorePaths": [
+
+  ]
+
 }
