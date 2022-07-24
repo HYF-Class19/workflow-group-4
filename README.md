@@ -24,7 +24,6 @@ login-group-four**
 
 | Name                | Links to the introduction files in the "people" folder                               |
 | ------------------- |--------------------------------------------------------------------------------------|
-
 | Annass Abbar        | [Enter the text that will be displayed](https://github.com/anasabbar)                |
 | Barnabas Jema       | [Enter the text that will be displayed](https://github.com/Lemma-Barnabas)           |
 | Nashmia Burki       | [Enter the text that will be displayed](https://github.com/nashmiab)                 |
@@ -43,6 +42,7 @@ login-group-four**
 | Bibha Singh         | [bibhasingh](https://github.com/bibhasingh)         |
 | Oleksii Pidnebesnyi | [podnesTaF](https://github.com/podnesTaF)           |
 | Thomas Ayissi       | [thomas-ayissi](https://github.com/thomas-ayissi)   |
+
 
 ### Quotes That Sums Up The Team Members Mindset for This Week
 
